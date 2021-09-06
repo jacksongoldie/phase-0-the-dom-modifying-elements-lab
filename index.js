@@ -1,4 +1,4 @@
-// Write your code here!
+//reviewed
 const main = document.getElementById("main");
 main.remove();
 
